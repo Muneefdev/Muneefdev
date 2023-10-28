@@ -8,7 +8,6 @@ full stack developer with a solid knowledge in JavaScript ecosystem
 
 *   🌍  I'm based in Malaysia - Kuala Lumpur
 *   ✉️  You can contact me at [muneefmurad@gmail.com](mailto:muneefmurad@gmail.com)
-*   🧠  I'm learning next.js 13 and TypeScript
 *   🤝  I'm open to collaborating on full stack JS/TS projects
 
 ### Skills 
